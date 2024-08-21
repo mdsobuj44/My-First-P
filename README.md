@@ -1,2 +1,2 @@
 # My-First-P
-This is my first project
+This is my first git project
